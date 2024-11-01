@@ -1,0 +1,20 @@
+# Heading 1
+
+By Sharath
+
+
+
+Untracked
+---- Any new file that you add to the repository
+
+Staged --- git add <FileName>
+--- The changes to the new file will be started to track
+
+Dirty
+-- Any changes that are not staged will be in the Dirty state
+
+
+Commit --- git commit <FileNmae>
+-- Staged will be committed to repository and they will be given a revision --- Like SNAPSHOT 
+
+
